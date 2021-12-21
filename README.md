@@ -17,7 +17,7 @@
 * [ Đồ án môn học](#doan)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
-* **Tên môn học**: Máy học - MACHINE LEARNING
+* **Tên môn học**: TOÁN CHO KHOA HỌC MÁY TÍNH
 * **Mã môn học**: CS115
 * **Lớp học**: CS115.M11
 * **Ngày bắt đầu**: 30/11/2021
