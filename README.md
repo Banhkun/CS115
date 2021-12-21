@@ -42,9 +42,9 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 20520350      | Lê Việt Thịnh          |        đ' biết                                              |20520350@gm.uit.edu.vn   |
+| 1      | 20520350      | Lê Việt Thịnh          |     https://github.com/levietthinh                                           |20520350@gm.uit.edu.vn   |
 | 2      | 20521597      | Đinh Nhật Minh         |https://github.com/Banhkun	                        |20521597@gm.uit.edu.vn   |
-| 3      | 20521424      | Văn Nguyễn Ngọc Huyền  |             maybe là cx đ' có                                       |20521424@gm.uit.edu.vn   |
+| 3      | 20521424      | Văn Nguyễn Ngọc Huyền  |         đ' biết, có khi cx đ' có lun :>                                       |20521424@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
